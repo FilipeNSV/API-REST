@@ -1,0 +1,12 @@
+{
+    "name": "nsvdev/jobelsom",
+    "autoload": {
+        "psr-4": {
+            "App\\":"App/",
+            "Routes\\":"Routes/"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.4"
+    }
+}
